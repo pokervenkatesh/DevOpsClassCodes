@@ -424,8 +424,6 @@
    				<artifactId>cobertura-maven-plugin</artifactId>
    				<version>2.7</version>
 					   <configuration>
-		<fork>true</fork>
-                    <executable>C:\Program Files\Java\jdk1.8.0_144\bin\javac</executable>
 					       <formats>
 						   <format>html</format>
 						   <format>xml</format>
